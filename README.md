@@ -28,7 +28,7 @@
     
 
 ## Description
-This project allows users to write, save, and delete notes. Notes contain a 'note title' and 'note text', which allows for a simple and effective user interface.
+This project allows users to write, save, and delete notes. 
 
 
 
@@ -42,7 +42,11 @@ https://blooming-hollows-55892.herokuapp.com/
 
 
 ## What I Learned
-* Learned how to set up an Express.js server * Established GET, POST, and DELETE routes using Express.js * Learned more about implementing fetch() functionality * Gained experiencing implementing new functionality into an existing code base * Further honed my understanding of Object Oriented Programming 
+* Learned how to set up an Express.js server 
+* Established GET, POST, and DELETE routes using Express.js 
+* Learned more about implementing fetch() functionality 
+* Gained experiencing implementing new functionality into an existing code base 
+* Further honed my understanding of Object Oriented Programming 
 
     
 
