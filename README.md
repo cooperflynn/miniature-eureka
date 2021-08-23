@@ -28,7 +28,7 @@
     
 
 ## Description
-This project allows users to write, save, and delete notes. 
+This application allows users to write, save, and delete notes. 
 
 
 
