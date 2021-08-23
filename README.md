@@ -27,7 +27,7 @@ lasjkdf
 
 ## Launched Application
 ladjfa  
-![screen shot of application](./src/images/shot.png)
+![screen shot of application](../src/images/shot.png)
 
 
 
@@ -47,3 +47,4 @@ ladjfa
 ## Questions  
 * Github: [www.github.com/Cooper](www.github.com/Cooper)
 * Email: coo
+
